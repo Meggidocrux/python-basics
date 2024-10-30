@@ -1,4 +1,4 @@
-sum1 = 2
-sum2 = 2
+sum1 = float(input("enter number:"))
+sum2 = float(input("enter number:"))
 sum = sum1 + sum2
-print(sum)
+print("sum is:",sum)
