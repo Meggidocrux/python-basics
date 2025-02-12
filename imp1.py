@@ -7,4 +7,3 @@ connection= mysql.connector.connect(
     database="classicmodels",
     port=3306
 )
-print ("rdfhn")
